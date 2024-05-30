@@ -1,0 +1,1 @@
+import{_ as e}from"./CKNrSLHH.js";import{k as o,o as t,F as s}from"./DPLg6UvK.js";const c={},n=s("h1",null,"MEWS",-1),r=[n];function _(a,l){return t(),o("div",null,r)}const i=e(c,[["render",_]]);export{i as default};
