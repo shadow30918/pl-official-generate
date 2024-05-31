@@ -1,1 +1,0 @@
-import{_ as e}from"./C1n1bv2_.js";import{k as o,o as t,F as c}from"./CFCu8DBX.js";const s={},n=c("h1",null,"QA",-1),r=[n];function _(a,l){return t(),o("div",null,r)}const i=e(s,[["render",_]]);export{i as default};
